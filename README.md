@@ -1,25 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Moussaillons-project
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# Moussaillons-project
+Projet en cours de réalisation , revenir un peu plus tard (c'est-à-dire demain matin pour les correcteurs pressés de 0h01 ;) ) LA nuit ne fait que commencer !
