@@ -48,7 +48,7 @@ class MoussaillonsController < ApplicationController
 
   private
     def moussaillon_params
-      params.permit(:firstname, :age)
+      params.permit(:firstname, :age, :likeness)
     end
 
 
